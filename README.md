@@ -9,9 +9,9 @@ also calculates utilization of each employee and we also created a
 dynamic graph to monitor the utilization.
 
 #Technologies Used:
-Google App Engine
-Cloud Firebase
-MongoDB Atlas
-Node Mailer
+Google App Engine,
+Cloud Firebase,
+MongoDB Atlas,
+Node Mailer,
 Reactjs
 
